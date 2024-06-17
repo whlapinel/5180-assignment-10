@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MidtermApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_label">Welcome</string>
+    <string name="bill_summary_label">Bill Summary</string>
+    <string name="create_bill_label">Create Bill</string>
+    <string name="select_bill_date_label">Select Bill Date</string>
+    <string name="select_category_label">Select Category</string>
+    <string name="select_discount_label">Select Discount</string>
+    <string name="start_label">Start</string>
+    <string name="bills_label">Bills</string>
+    <string name="sort_label">Sort</string>
+    <string name="new_label">New</string>
+    <string name="clear_label">Clear</string>
+    <string name="select_sort_label">Select Sort</string>
+    <string name="discount_percent_txt_label">Discount %</string>
+    <string name="category_txt_label">Category</string>
+    <string name="date_txt_label">Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="bill_name_label">Bill Name:</string>
+    <string name="discount_label">Discount %:</string>
+    <string name="total_bill_label">Total Bill:</string>
+    <string name="category_label">Category:</string>
+    <string name="bill_amount_label">Bill Amount:</string>
+    <string name="discount_amount_label">Discount Amount:</string>
+    <string name="bill_date_label">Bill Date:</string>
+    <string name="delete_label">Delete</string>
+    <string name="back_label">Back</string>
+    <string name="select_label">Select</string>
+    <string name="edit_bill_label">Edit Bill</string>
+    <string name="bill_amount_100">Bill Amount: $100</string>
+    <string name="groceries">Groceries</string>
+    <string name="discount_15_15">Discount: 15% ($15)</string>
+    <string name="total_bill_85_00">Total Bill: $85.00</string>
+    <string name="_06_08_2024">06/08/2024</string>
+    <string name="food">Food</string>
+</resources>
